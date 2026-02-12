@@ -157,7 +157,7 @@ I think I rushed into the project. My curiosity to train big models and make a b
 
 ## If I Had More Time and Resources
 
-While writing this, I realized that if I were to start this project again, I would approach the problem very differently. I feel like I didn’t really test the true power of Wan-Vace as a foundational model. It’s definitely better than what I initially expected. In hindsight, some of the things I did at the beginning might not have been necessary at all.
+While writing this, if I were to start this project again, I would approach the problem very differently. I feel like I didn’t really test the true power of Wan-Vace as a foundational model. It’s definitely better than what I initially expected. In hindsight, some of the things I did at the beginning might not have been necessary at all.
 
 - If my goal was to generate dance videos of myself, then I should have collected data of myself in the first place. In that case, LoRA might have worked much better.
 
@@ -167,10 +167,6 @@ While writing this, I realized that if I were to start this project again, I wou
 
 The code is available in the [skeleton2Video repository](https://github.com/manthan2305/skeleton2Video).
 
-## Reflection
-
-This project didn’t give me the results I initially hoped for, but it gave me something more valuable: a much clearer understanding of what actually matters when working with controllable video generation.
-
 ## Stay Connected
 
-If you'd like to connect or have questions about my work, feel free to reach out.
+If you'd like to connect or discuss, feel free to reach out.
