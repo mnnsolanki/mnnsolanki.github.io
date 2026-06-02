@@ -1,6 +1,6 @@
 baseURL: https://mnnsolanki.github.io/
 locale: en-us
-title: Manthan's Log
+title: Manthan Solanki
 theme: ["PaperMod"]
 
 enableInlineShortcodes: true
@@ -34,9 +34,9 @@ menu:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: Manthan's Log
+  title: Manthan Solanki
   description: "I write about my journey into AI."
-  keywords: ["AI", "Artificial Intelligence", "Machine Learning", "Deep Learning", "Manthan Solanki", "Manthan's Log"] 
+  keywords: ["AI", "Artificial Intelligence", "Machine Learning", "Deep Learning", "Manthan Solanki"] 
   author: Me
   # images: ["/images/og-image.png"] # Path to your Open Graph image
   DateFormat: "January 2, 2006"
@@ -78,7 +78,7 @@ params:
 
   # home-info mode
   # homeInfoParams:
-  #   Title: "Welcome to Manthan's Log \U0001F44B"
+  #   Title: "Welcome to Manthan Solanki \U0001F44B"
   #   Content: I write about my journey into AI.
 
   socialIcons:

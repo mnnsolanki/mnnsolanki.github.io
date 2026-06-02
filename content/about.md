@@ -14,12 +14,11 @@ build:
 excludeFromArchive: true
 ---
 
-Welcome to Manthan’s Log 📗👋
+👋 Hi, I’m Manthan Solanki, a Master’s student in Computer Science at the University of Stuttgart, Germany.
 
-I’m Manthan Solanki, a Master’s student in Computer Science at the University of Stuttgart, Germany.
-
-This is my personal space to document the journey: the things I learn, build, explore, and think about as I dive deeper into the world of AI.
+This is my personal space where I share what I learn about AI, tech, and other things that interest me.
 
  - [𝕏 @mnnsolanki](https://x.com/mnnsolanki)
  - [GitHub @mnnsolanki](https://github.com/mnnsolanki)
+ - [YouTube @mnnsolanki](https://www.youtube.com/@mnnsolanki)
  - [✉️ manthansolanki1999@gmail.com](mailto:manthansolanki1999@gmail.com)
